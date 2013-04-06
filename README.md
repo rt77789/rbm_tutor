@@ -9,4 +9,5 @@ This is tutorial of RBM implemented by R.
 
 
 Reference:
+
 http://imonad.com/rbm/restricted-boltzmann-machine/
