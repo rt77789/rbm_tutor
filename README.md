@@ -8,6 +8,5 @@ This is tutorial of RBM implemented by R.
 * rbm.R contains the codes of training and reconstructing.
 
 
-Reference:
-
+Reference:   
 http://imonad.com/rbm/restricted-boltzmann-machine/
